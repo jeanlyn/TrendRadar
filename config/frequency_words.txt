@@ -5,7 +5,12 @@ Microsoft
 NVIDIA
 黄仁勋
 
-AMD
+大数据
+技术
+湖仓
+云原生
+流批
+!广告
 
 谷歌
 google
